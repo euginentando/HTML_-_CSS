@@ -1,0 +1,29 @@
+.main {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  margin: 0;
+  position: absolute;
+  top: 15%;
+  right: 17%;
+ 
+}
+
+.div1 {
+  background-color: rgb(243, 166, 66);
+  padding-bottom: 40px;
+  padding-top: 40px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.div2 {
+  background-color: rgb(45, 143, 143);
+  padding-top: 40px;
+}
+
+.div3 {
+  background-color: rgb(8, 94, 65);
+  padding-top: 40px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
