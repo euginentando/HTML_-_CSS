@@ -1,0 +1,62 @@
+.holder {
+  margin-right: 20px;
+}
+
+.inp1 {
+  width: 120px;
+  height: 45px;
+}
+
+.desc {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: rgb(97, 97, 97);
+  font-size: 11px;
+  letter-spacing: 5px;
+}
+
+.inp1 {
+  color: rgb(97, 97, 97);
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bolder;
+  padding-left: 20px;
+  border-width: 1px; 
+  border-style: solid; 
+  border-color: rgb(221, 221, 221);
+  border-radius: 5px ;
+}
+
+.line {
+  color: rgb(219, 218, 218);
+  font-weight: bold;
+  display: inline-block;
+}
+
+.signs, .scnd-desc {
+  font-family: 'Campton';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 70px;
+  margin: 0;
+}
+
+.signs {
+  color: rgb(142, 103, 214);
+}
+
+.arrow {
+  background-color: rgb(142, 103, 214);
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  
+}
+ 
+.icon {
+  width: 50px;
+  height: 50px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
