@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(246, 232, 209);
+}
+
+.main-div {
+  background-color: white;
+  height: 1320px;
+  width: 450px;
+  position: absolute;
+  right: 35%;
+  border-radius: 15px;
+}
+
+.list {
+  padding-left: 35px;
+}
+
+.custom {
+  background-color: rgb(246, 237, 238);
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+}
+
+.list2 {
+  padding-left: 10px;
+  margin-bottom: 0;
+}
+
+.scnd-bullets {
+  color: rgb(87, 86, 86);
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+.bullets {
+  color: rgb(87, 86, 86);
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-bottom: 8px;
+  
+}
+
+.third-bullets {
+  color: rgb(87, 86, 86);
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-bottom: 8px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.table {
+  padding-left: 25px;
+  padding-right: 25px;
+}

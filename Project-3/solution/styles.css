@@ -1,0 +1,98 @@
+.thumbnail {
+  width: 400px;
+  padding-left: 25px;
+  padding-top: 25px;
+  
+}
+
+.main-heading{
+  font-family: 'Young Serif';
+  font-size: 25px;
+  font-weight: 400;
+  padding-left: 25px;
+  color: rgb(55, 54, 54);
+  margin-bottom: 0;
+  margin-top: 15px;
+}
+
+.stt1 {
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 380px;
+  padding-left: 25px;
+  font-weight: 300;
+  color: rgb(146, 145, 145);
+}
+
+
+
+.sub-head1 {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: bold;
+  padding-left: 45px;
+  margin-bottom: 0;
+  color: rgb(123, 24, 123);
+}
+
+.Ingredients {
+  font-family: 'Young Serif';
+  font-size: 17px;
+  color: rgb(88, 40, 40);
+  padding-left: 25px;
+}
+
+
+
+.line {
+  color: rgb(226, 211, 211);
+  padding-left: 25px;
+  margin-top: 0;
+}
+
+.instructions {
+  font-family: 'Young Serif';
+  font-size: 19px;
+  color: rgb(88, 40, 40);
+  padding-left: 25px;
+
+}
+
+.nutrition {
+  font-family: 'Young Serif';
+  font-size: 19px;
+  color: rgb(88, 40, 40);
+  padding-left: 25px;
+}
+
+.description {
+  color: rgb(87, 86, 86);
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 13px;
+  margin-bottom: 8px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+ 
+td{
+  border-bottom: 1pt solid #eae6e7;
+  padding: 7px 60px;
+}
+
+.right {
+  color:rgb(88, 40, 40);
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 13px;
+  margin-bottom: 8px;
+  
+}
+
+.left {
+  color: rgb(87, 86, 86);
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
