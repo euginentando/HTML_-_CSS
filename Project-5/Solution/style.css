@@ -1,0 +1,60 @@
+.stt1 {
+  width: 350px;
+  line-height: 50px;
+  font-size: 50px;
+  font-weight: bolder;
+  color: rgb(92, 11, 92);
+  margin-bottom: 20px;
+
+}
+
+.stt2 {
+  font-size: 14px;
+  font-weight: bold;
+  width: 380px;
+  color: rgb(124, 124, 124);
+  margin-top: 0;
+}
+
+.stt3 {
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 19px;
+  color: purple;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.profile-picture {
+  width: 35px;
+  height: 35px;
+  border: none;
+  border-radius: 50%;
+}
+
+.user_name {
+  margin: 0;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  margin-left: 15px;
+}
+
+.verification {
+  margin: 0;
+  color: rgb(182, 88, 169);
+  font-size: 12px;
+  margin-left: 15px;
+}
+
+.comment {
+  padding: 0px 25px 25px 25px;
+  color: white;
+  font-size: 13px;
+  margin-bottom: 0;
+}
+
+.ratings {
+  height: 20px;
+  width: 20px;
+}
